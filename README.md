@@ -1,2 +1,1 @@
-###
-HTML/CSS/JS 기초
+### HTML/CSS/JS 기초
